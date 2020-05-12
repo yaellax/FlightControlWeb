@@ -7,10 +7,5 @@ namespace FlightControl
 {
     public class yael
     {
-        yaekkksvbfb 
-            dnfjbfj
-            ncbbx
-
-       
     }
 }
